@@ -9,11 +9,11 @@ if(answer === "yes" ){
 }
 
 
-while(yourname != 'Salah' || age !=24 ) {
+while(yourname == 'Salah' || age !=18 ) {
  console.log('good');
  username = prompt('Please enter Salah');
    userAge = prompt('please enter age');
- break;
+    break;
    }
 
    var x = prompt("How do you rate the article? good or bad?")
