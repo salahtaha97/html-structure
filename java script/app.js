@@ -1,6 +1,7 @@
 var yourname = prompt("Whats your name ?");
-alert("welcome Mr."  + yourname)
+
 var age = prompt("how old are you?")
+
 var answer = prompt("Do you know what is HTML?")
 if(answer === "yes" ){
   alert("graet")
@@ -9,10 +10,10 @@ if(answer === "yes" ){
 }
 
 
-while(yourname == 'Salah' || age !=18 ) {
+while(yourname == 'Salah' || age ==10 ) {
  console.log('good');
  username = prompt('Please enter Salah');
-   userAge = prompt('please enter age');
+   userNumber = prompt('please enter no. 10');
     break;
    }
 
