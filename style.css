@@ -1,0 +1,25 @@
+.header-nav ul li {
+  
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid orange;
+}
+main img {
+  text-align: center;
+  width: 200px;
+}
+h1 {
+  text-align: center;
+  background: orange;
+  color: black;
+}
+
+h2 {
+  text-align: center;
+  background: orange;
+  color: black;
+}
+footer {
+  text-align: center;
+}
+
